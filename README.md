@@ -235,7 +235,7 @@ AI-generated results were reviewed and adjusted based on business requirements, 
 ## Deliverables
 
 * Public SRS
-* Figma Prototype(https://www.figma.com/design/VPmf0bMkMmMXN7hc0wY8RT/Personal-Project?node-id=133-598&t=lDfr2jL3PeRaEMCb-1)
+* Figma Prototype(https://www.figma.com/design/VPmf0bMkMmMXN7hc0wY8RT/Personal-Project?node-id=102-686&t=lDfr2jL3PeRaEMCb-1)
 * Source-to-Target Data Mapping
 * Data Validation Rules
 * Business Rules
